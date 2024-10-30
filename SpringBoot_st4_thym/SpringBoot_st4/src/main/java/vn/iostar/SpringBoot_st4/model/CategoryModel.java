@@ -17,5 +17,5 @@ public class CategoryModel {
     String name;
     String images;
     int status;
-    Boolean isEdit ;
+    Boolean isEdit = false;
 }
